@@ -21,6 +21,17 @@ module.exports = [{
         tech_stack: ['react', 'react native', 'javascript', 'css','nodejs'],
         hired: false
     },{
+        name: 'Aditya Udi Anggoro',
+        status: 'Fulltime, Remote',
+        role: 'Devops Enginner',
+        location: 'Jakarta',
+        social_media: {
+                        Linkedin: 'https://www.linkedin.com/in/adityaudi',
+                        Github: 'https://github.com/Adityaudi',
+        },
+        tech_stack: ['Docker', 'Jenkins', 'Kubernetes', 'VueJS','Javascript', 'Bash Script', 'Cloud Computing', 'HTML & CSS'],
+        hired: true
+    },{
         name: 'Lelianto Eko Pradana',
         status: 'Fulltime',
         role: 'Front End Web Developer',
